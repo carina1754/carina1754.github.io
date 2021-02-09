@@ -40,11 +40,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
  - 2016 ~ 2018 : 경희고등학교 졸업
  - 2019 ~ 연세대학교 미래캠퍼스 컴퓨터정보통신공학부 재학중
-
+ 
 ## 분야
 
  - Machine Learning, Deep Learning
- - Web (NodeJs, JSP, HTML/CSS, Vue, WordPress, ...)
+ - Web : NodeJs, JSP, HTML/CSS, Vue, WordPress, ...
+ - DB : Mysql, Firebase, MariaDB, ...
  - 그 외 가능 언어 : C/C++, Python, Java, Haskell, WinAPI, ReactNative ...
 
 ## 활동 내역
