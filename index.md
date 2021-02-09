@@ -73,6 +73,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
  - **2020-Winter-Java-Project**<br>
    Mysql과 Java를 이용한 스케줄러 프로그램 개발 [link](https://github.com/carina1754/2020-Winter-Project-Scheduler)
-
- - **연세대학교 신촌캠퍼스 데이터 베이스 연구실 인턴**<br>
-   2021-01-04 ~ 2021-03-04
