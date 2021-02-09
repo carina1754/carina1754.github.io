@@ -49,4 +49,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## 활동 내역
  - KCSE2018 논문 등재
+ 
    Theoretical way of reinforcing established online gaming security system based on OTP using Keystroke Dynamics p353~p375 
+ - 
