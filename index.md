@@ -35,5 +35,18 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ 
+## 학력
 
-# 안정수
+ - 2016 ~ 2018 : 경희고등학교 졸업
+ - 2019 ~ 연세대학교 미래캠퍼스 컴퓨터정보통신공학부 재학중
+
+## 분야
+
+ - Machine Learning, Deep Learning
+ - Web (NodeJs, JSP, HTML/CSS, Vue, WordPress, ...)
+ - 그 외 가능 언어 : C/C++, Python, Java, Haskell, WinAPI, ReactNative ...
+
+## 활동 내역
+ - KCSE2018 논문 등재
+   Theoretical way of reinforcing established online gaming security system based on OTP using Keystroke Dynamics p353~p375 
