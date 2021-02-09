@@ -48,7 +48,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  - 그 외 가능 언어 : C/C++, Python, Java, Haskell, WinAPI, ReactNative ...
 
 ## 활동 내역
- - KCSE2018 논문 등재<br>
+ - KCSE2018 논문 등재<br></br>
 
    Theoretical way of reinforcing established online gaming security system based on OTP using Keystroke Dynamics p353~p375 
  - 
