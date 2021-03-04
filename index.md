@@ -73,3 +73,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
  - **2020-Winter-Java-Project**<br>
    Mysql과 Java를 이용한 스케줄러 프로그램 개발 [link](https://github.com/carina1754/2020-Winter-Project-Scheduler)
+   
+ - **2020-산학프로젝트**<br>
+   바이오 기업 바이랩 및 권혁남 교수님과 TV데이터(심폐기능) 모니터링 어플 개발
