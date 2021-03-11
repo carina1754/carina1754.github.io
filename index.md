@@ -54,8 +54,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
    Theoretical way of reinforcing established online gaming security system based on OTP using Keystroke Dynamics p353~p375 [link](http://sigsoft.or.kr/ftp/KCSE2018_proceedings_ver4.0.pdf) 
 
  - **2019-암호화된 로그인 프로그램 개발**<br>
-   RSA&SHA를 테스트하기 위한 Win32 로그인 프로그램 개발
-   1 Server [link](https://github.com/carina1754/TCPchat)
+   RSA&SHA를 테스트하기 위한 Win32 로그인 프로그램 개발<br>
+   1 Server [link](https://github.com/carina1754/TCPchat)<br>
    2 Client [link](https://github.com/carina1754/TCPchatclient)
 
  - **2019~2020-연세대 미래캠 정보보안 동아리 Y-CERT 참여**<br>
@@ -95,7 +95,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
    wordpress와 js로 구성된 홈페이지 제작
 
  - **2020-확률과 통계 프로젝트**<br>
-   1 KeystrokeDynamics를 이용한 보안 체계 + 확률분포를 통한 사용자 패턴 인식 [link](https://github.com/carina1754/KeyStrokeDynamics)
+   1 KeystrokeDynamics를 이용한 보안 체계 + 확률분포를 통한 사용자 패턴 인식 [link](https://github.com/carina1754/KeyStrokeDynamics)<br>
    2 OpenGL + C++ 를 이용한 당구 프로그램 [link](https://github.com/carina1754/Billiards)
 
  - **2020-코로나 알리미 웹 제작**<br>
