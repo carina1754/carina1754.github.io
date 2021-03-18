@@ -94,6 +94,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  - **2020~-위안부 사진작가 홈페이지 제작 도움**<br>
    wordpress와 js로 구성된 홈페이지 제작
 
+ - **연세대 미래캠 어플 제작 도움** <br>
+   연세대 미래캠 총학생회 '우리'와 협력하여 연세대 어플 제작에 기여 [link](http://m.chunchu.yonsei.ac.kr/news/articleView.html?idxno=27014)
+
  - **2020-확률과 통계 프로젝트**<br>
    1 KeystrokeDynamics를 이용한 보안 체계 + 확률분포를 통한 사용자 패턴 인식 [link](https://github.com/carina1754/KeyStrokeDynamics)<br>
    2 OpenGL + C++ 를 이용한 당구 프로그램 [link](https://github.com/carina1754/Billiards)
