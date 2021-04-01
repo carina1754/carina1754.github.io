@@ -1,41 +1,3 @@
-<!-- ## W1elcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/carina1754/JungSu-An/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carina1754/JungSu-An/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-  -->
 ## 학력
 
  - 2016 ~ 2018 : 경희고등학교 졸업
@@ -91,10 +53,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
  - **2020-교내 프로그래밍 대회 장려상**<br>
    MFC를 이용한 스와이프 벽돌깨기 구현 [link](https://github.com/carina1754/brick-out-c-)
 
- - **2020~-위안부 사진작가 홈페이지 제작 도움**<br>
+ - **2020 ~ -위안부 사진작가 홈페이지 제작 도움**<br>
    wordpress와 js로 구성된 홈페이지 제작
 
- - **연세대 미래캠 어플 제작 도움** <br>
+ - **2020-연세대 미래캠 어플 제작 도움** <br>
    연세대 미래캠 총학생회 '우리'와 협력하여 연세대 어플 제작에 기여 [link](http://m.chunchu.yonsei.ac.kr/news/articleView.html?idxno=27014)
 
  - **2020-확률과 통계 프로젝트**<br>
@@ -111,18 +73,21 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
    KOI급 알고리즘 문제 출제 및 C언어 관련 모의고사 출제
  
  - **2021-2021학년도 1학기 RC 융합·창의 자율형 커뮤니티 SAT (Student Action Team)**<br>
-   -진행중-
+   Annotating the CORD-19 corpus using NER and extracting correlations as a network - [link]()
  
  - **2021-주식 스캘핑 봇 프로그램 제작**<br>
-   -진행중-
+   MFC & DL을 이용한 주식 스캘핑 봇 프로그램 개발 - [link]()
  
  - **2021-연세대 미래캠 산학프로젝트**<br>
-   -진행중-
+   증강/혼합현실 기반 제스처 & 음성명령 가이드 네비게이션시스템 개발 - [link]()
    
  - **2021-융합 캡스톤 디자인 프로젝트 진행**<br>
-   -진행중-
+   MagicMirror & 자연어 처리를 통한 코로나 알림 서비스 개발 - [link]()
 
  - **2021-Detecting-Occluded-Objects 프로젝트 진행**<br>
-   -진행중- [link](https://github.com/carina1754/Detecting-Occluded-Objects)
-
+   BaisyeanNetwork & 패턴인식을 이용한 공간분류 시스템 - [link](https://github.com/carina1754/Detecting-Occluded-Objects)
+ 
+ - **2021-연세대 미래캠 창업동아리 프로젝트**<br>
+   BaisyeanNetwork을 이용한 하루일과 예측 어플 개발 - [link](https://github.com/carina1754/Detecting-Occluded-Objects)
+ 
   
