@@ -73,21 +73,21 @@
    KOI급 알고리즘 문제 출제 및 C언어 관련 모의고사 출제
  
  - **2021-2021학년도 1학기 RC 융합·창의 자율형 커뮤니티 SAT (Student Action Team)**<br>
-   Annotating the CORD-19 corpus using NER and extracting correlations as a network - [link]()
+   Annotating the CORD-19 corpus using NER and extracting correlations as a network [link]()
  
  - **2021-주식 스캘핑 봇 프로그램 제작**<br>
-   MFC & DL을 이용한 주식 스캘핑 봇 프로그램 개발 - [link]()
+   MFC & DL을 이용한 주식 스캘핑 봇 프로그램 개발 [link]()
  
  - **2021-연세대 미래캠 산학프로젝트**<br>
-   증강/혼합현실 기반 제스처 & 음성명령 가이드 네비게이션시스템 개발 - [link]()
+   증강/혼합현실 기반 제스처 & 음성명령 가이드 네비게이션시스템 개발 [link]()
    
  - **2021-융합 캡스톤 디자인 프로젝트 진행**<br>
-   MagicMirror & 자연어 처리를 통한 코로나 알림 서비스 개발 - [link]()
+   MagicMirror & 자연어 처리를 통한 코로나 알림 서비스 개발 [link]()
 
  - **2021-Detecting-Occluded-Objects 프로젝트 진행**<br>
-   BaisyeanNetwork & 패턴인식을 이용한 공간분류 시스템 - [link](https://github.com/carina1754/Detecting-Occluded-Objects)
+   BaisyeanNetwork & 패턴인식을 이용한 공간분류 시스템 [link](https://github.com/carina1754/Detecting-Occluded-Objects)
  
  - **2021-연세대 미래캠 창업동아리 프로젝트**<br>
-   BaisyeanNetwork을 이용한 하루일과 예측 어플 개발 - [link](https://github.com/carina1754/Detecting-Occluded-Objects)
+   BaisyeanNetwork을 이용한 하루일과 예측 어플 개발 [link](https://github.com/carina1754/Detecting-Occluded-Objects)
  
   
