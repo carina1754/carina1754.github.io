@@ -43,6 +43,9 @@
 
  - **2020-IBM_2020_Hackaton**<br>
    로지스틱 회귀를 이용한 최적의 발전소 위치 선정 앱 개발 [link](https://github.com/carina1754/IBM_2020_Hackaton)
+   
+ - **2020-여름방학 원주고등학교 코딩관련 봉사활동**<br>
+   원주고 재학생 대상 C언어 봉사활동 참여
 
  - **2020-Winter-Java-Project**<br>
    Mysql과 Java를 이용한 스케줄러 프로그램 개발 [link](https://github.com/carina1754/2020-Winter-Project-Scheduler)
@@ -88,6 +91,11 @@
    BaisyeanNetwork & 패턴인식을 이용한 공간분류 시스템 [link](https://github.com/carina1754/Detecting-Occluded-Objects)
  
  - **2021-연세대 미래캠 창업동아리 프로젝트**<br>
-   BaisyeanNetwork을 이용한 하루일과 예측 어플 개발 [link](https://github.com/carina1754/Detecting-Occluded-Objects)
+   BaisyeanNetwork을 이용한 하루일과 예측 어플 개발 [link]()
  
+  - **2021-연세대 미래캠 산학프로젝트2**<br>
+   치아 관련 기업 큐브세븐틴 및 조영래 교수님과 3D 딥러닝을 이용한 치아 위치 식별 알고리즘 개발  [link]() 
+   
+  - **2021-Y-MOSS동아리 개설**<br>
+   연세대 미래캠 인공지능 오픈소스 동아리 개설 및 운영  [link](https://github.com/carina1754/AI-Open-Source-Club)
   
