@@ -94,10 +94,13 @@
    BaisyeanNetwork을 이용한 하루일과 예측 어플 개발 [link](https://github.com/carina1754/3D-Dental-Segmentation)
  
   - **2021-연세대 미래캠 산학프로젝트2**<br>
-   치아 관련 기업 큐브세븐틴 및 조영래 교수님과 3D 딥러닝을 이용한 치아 위치 식별 알고리즘 개발  [link](https://github.com/carina1754/3D-Dental-Segmentation) 
+   3D구강스캐너를 이용한 구강정보 인공지능 데이터 구축 및 활용  [link](https://github.com/carina1754/3D-Dental-Segmentation) 
    
   - **2021-Y-MOSS동아리 개설**<br>
    연세대 미래캠 인공지능 오픈소스 동아리 개설 및 운영  [link](https://github.com/carina1754/AI-Open-Source-Club)
   
   - **2021- 제 4회 국민대학교 자율주행자동차 경진대회 참여**<br>
    Ros & Python을 이용한 자율주행자동차 시스템 구현  [link](https://github.com/carina1754/Autonomous-driving)
+   
+  - **2021-연세대 미래캠 산학프로젝트2**<br>
+   사격 선수와 치매 노인의 집중력 관련 뇌파 패턴차이 연구  [link](https://github.com/carina1754/EEG-Classification)
