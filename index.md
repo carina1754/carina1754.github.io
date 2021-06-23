@@ -102,5 +102,5 @@
   - **2021- 제 4회 국민대학교 자율주행자동차 경진대회 참여**<br>
    Ros & Python을 이용한 자율주행자동차 시스템 구현  [link](https://github.com/carina1754/Autonomous-driving)
    
-  - **2021-연세대 미래캠 산학프로젝트2**<br>
+  - **2021-연세대 미래캠 산학프로젝트3**<br>
    사격 선수와 치매 노인의 집중력 관련 뇌파 패턴차이 연구  [link](https://github.com/carina1754/EEG-Classification)
